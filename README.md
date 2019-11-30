@@ -1,0 +1,1 @@
+Criação de projeto simples para aprender a utilização do truffle
